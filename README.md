@@ -46,12 +46,9 @@ To test the responsiveness, follow these steps:
    - 
 
 ## ✅ **Files Included**
-- `index.html` – Main structure  
-- `style.css` – All styling, animations, transitions, responsive settings  
-- `README.md` – This documentation  
-
----
+- `index.html` – Main structure
+- `style.css` – All styling, animations, transitions, responsive settings 
+- `README.md` – This documentation
 
 
-
-➡️ *“Add README.md to canvas”*
+➡️ *“Add README.md 
